@@ -1,0 +1,10 @@
+{
+    "development":{
+        "username":"admin",
+        "password":"123456789",
+        "database":"autos",
+        "dialect":"mysql",
+        "operatorAliases":false,
+        "port": 3309
+    }
+}
